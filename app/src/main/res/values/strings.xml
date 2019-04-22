@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM_NYC_SCHOOL</string>
+    <string name="no_of_test_taker">No Of Test Taker :</string>
+    <string name="math_score">Sat Math Avg Score : </string>
+    <string name="reading_score">Sat Reading Avg Score :</string>
+    <string name="writting_score">Sat Writting Avg Score :</string>
+</resources>
